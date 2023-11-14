@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi I’m Yuichi 👋
+
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20kawau1)](https://github.com/kawau1)
 
 <!--
 **kawau1/kawau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 I am University student which learning technology.
+🎓 I’m university student which learning technology.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kawau1)](https://github.com/ryo-ma/github-profile-trophy)
 [![kawau1's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawau1&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawau1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Learning Languages and Tools
+## Learning Languages and Tools
