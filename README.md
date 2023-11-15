@@ -24,19 +24,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawau1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Learning Languages , Tools and Services
-<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=popout">
-<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=popout">
-<img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=C&style=popout">
-<img src="https://img.shields.io/badge/-C++-00599C.svg?logo=c%2B%2B&style=popout">
-<img src="https://img.shields.io/badge/-Java-FFFFFF.svg?logo=java&style=popout">
-<img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=popout">
-<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=popout">
-<img src="https://img.shields.io/badge/-Ruby on Rails-D30001.svg?logo=rubyonrails&style=popout">
-<img src="https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=popout">
-<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=popout">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=popout">
-<img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=popout">
-<img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=popout">
-<img src="https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=popout">
-<img src="https://img.shields.io/badge/-WordPress-21759B.svg?logo=wordpress&style=popout">
+<!-- <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=popout"> -->
+<img src="https://img.shields.io/badge/--F05032.svg?logo=git&style=social"><img src="https://img.shields.io/badge/--181717.svg?logo=github&style=social"><img src="https://img.shields.io/badge/--A8B9CC.svg?logo=C&style=social"><img src="https://img.shields.io/badge/--00599C.svg?logo=c%2B%2B&style=social"><img src="https://img.shields.io/badge/-Java-FFFFFF.svg?logo=java&style=popout"><img src="https://img.shields.io/badge/--F05138.svg?logo=swift&style=social"><img src="https://img.shields.io/badge/--3776AB.svg?logo=python&style=social"><img src="https://img.shields.io/badge/--CC342D.svg?logo=ruby&style=social"><img src="https://img.shields.io/badge/--D30001.svg?logo=rubyonrails&style=social"><img src="https://img.shields.io/badge/--E34F26.svg?logo=html5&style=social"><img src="https://img.shields.io/badge/--1572B6.svg?logo=css3&style=social"><img src="https://img.shields.io/badge/--F7DF1E.svg?logo=javascript&style=social"><img src="https://img.shields.io/badge/--7952B3.svg?logo=bootstrap&style=social"><img src="https://img.shields.io/badge/--0769AD.svg?logo=jquery&style=social"><img src="https://img.shields.io/badge/--E95420.svg?logo=ubuntu&style=social"><img src="https://img.shields.io/badge/--2496ED.svg?logo=docker&style=social"><img src="https://img.shields.io/badge/--21759B.svg?logo=wordpress&style=social"><img src="https://img.shields.io/badge/--000000.svg?logo=unity&style=social"><img src="https://img.shields.io/badge/--5C2D91.svg?logo=visualstudio&style=social"><img src="https://img.shields.io/badge/--007ACC.svg?logo=visualstudiocode&style=social"><img src="https://img.shields.io/badge/--147EFB.svg?logo=xcode&style=social"><img src="https://img.shields.io/badge/--019733.svg?logo=vim&style=social"><img src="https://img.shields.io/badge/--A22846.svg?logo=raspberrypi&style=social"><img src="https://img.shields.io/badge/--0078D4.svg?logo=windows&style=social"><img src="https://img.shields.io/badge/--000000.svg?logo=macos&style=social">
 
