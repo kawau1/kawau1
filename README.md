@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 🎓 I’m university student which learning technology.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{github_user_name}/{github_user_name}/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kawau1/kawau1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kawau1/kawau1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kawau1/kawau1/output/github-contribution-grid-snake.svg">
 </picture>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kawau1&column=-1&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
