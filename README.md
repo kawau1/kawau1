@@ -52,8 +52,3 @@ Here are some ideas to get you started:
 ## Learning Skills
 <!-- https://simpleicons.org/ -->
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,swift,python,ruby,rails,html,css,js,bootstrap,jquery,django,docker,wordpress,unity,raspberrypi,git,github,visualstudio,vscode,vim)](https://skillicons.dev)
-
-
-
-
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
