@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ## Learning Skills
 <!-- <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=popout"> -->
 <!-- https://simpleicons.org/ -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,swift,python,ruby,rails,html,css,js,bootstrap,jquery,docker,wordpress,unity,raspberrypi,git,github,visualstudio,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,swift,python,ruby,rails,html,css,js,bootstrap,jquery,django,docker,wordpress,unity,raspberrypi,git,github,visualstudio,vscode,vim)](https://skillicons.dev)
