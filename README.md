@@ -1,7 +1,6 @@
 # Hi I’m Yuichi 👋
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20kawau1)](https://github.com/kawau1)
-<img src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&style=popout">
 
 <!--
 **kawau1/kawau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +18,35 @@ Here are some ideas to get you started:
 -->
 🎓 I’m university student which learning technology.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kawau1)](https://github.com/ryo-ma/github-profile-trophy)
-[![kawau1's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawau1&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawau1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kawau1&column=-1&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kawau1&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kawau1&show_icons=true&theme=light"
+    media="(prefers-color-scheme: light), (preferred colour scheme: no preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kawau1" />
+</picture>
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kawau1&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kawau1&layout=compact&theme=light"
+    media="(prefers-color-scheme: light), (preferred colour scheme: no preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kawau1" />
+</picture>
+
 
 ## Learning Skills
-<!-- <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=popout"> -->
 <!-- https://simpleicons.org/ -->
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,swift,python,ruby,rails,html,css,js,bootstrap,jquery,django,docker,wordpress,unity,raspberrypi,git,github,visualstudio,vscode,vim)](https://skillicons.dev)
+
