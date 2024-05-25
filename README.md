@@ -1,6 +1,8 @@
 # Hi I’m Yuichi 👋
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20kawau1)](https://github.com/kawau1)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=githubsponsors&label=Sponsor%20kawau1)](https://github.com/sponsors/kawau1)
+
 
 <!--
 **kawau1/kawau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +21,7 @@ Here are some ideas to get you started:
 🎓 I’m university student which learning technology.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kawau1&column=-1&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <picture>
   <source
@@ -50,3 +53,7 @@ Here are some ideas to get you started:
 <!-- https://simpleicons.org/ -->
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,swift,python,ruby,rails,html,css,js,bootstrap,jquery,django,docker,wordpress,unity,raspberrypi,git,github,visualstudio,vscode,vim)](https://skillicons.dev)
 
+
+
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg'>
