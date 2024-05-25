@@ -18,13 +18,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![typograssy](https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Foolish.&l1=36c5f0&l2=ecb22e&l3=2eb67d&l4=e01e5a&frame=ffffff&comment=)](https://github.com/kawarimidoll/typograssy)
+
 🎓 I’m university student which learning technology.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kawau1/kawau1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kawau1/kawau1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kawau1/kawau1/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kawau1&column=-1&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
