@@ -48,14 +48,14 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kawau1&show_icons=true&theme=dark">
   <source media="(prefers-color-scheme: light), (preferred colour scheme: no preference)" srcset="https://github-readme-stats.vercel.app/api?username=kawau1&show_icons=true&theme=light">
-  <img height=200 align="center" alt="github-readme-stats(GitHub Stats Card)" src="https://github.com/anuraghazra/github-readme-stats">
+  <img height=190 align="center" alt="github-readme-stats(GitHub Stats Card)" src="https://github.com/anuraghazra/github-readme-stats">
 </picture>
 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kawau1&layout=compact&theme=dark">
   <source media="(prefers-color-scheme: light), (preferred colour scheme: no preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kawau1&layout=compact&theme=light">
-  <img height=200 align="center" alt="github-readme-stats(Top Languages Card)" src="https://github.com/anuraghazra/github-readme-stats">
+  <img height=190 align="center" alt="github-readme-stats(Top Languages Card)" src="https://github.com/anuraghazra/github-readme-stats">
 </picture>
 
 
