@@ -4,14 +4,6 @@
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=githubsponsors&label=Sponsor%20kawau1)](https://github.com/sponsors/kawau1)
 
 <!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Hoolish.&l0=000000&l1=ffffff&l2=ffffff&l3=ffffff&l4=ffffff&bg=000000&comment=">
-  <source media="(prefers-color-scheme: light)" srcset="https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Hoolish.&l1=000000&l2=000000&l3=000000&l4=000000&frame=ffffff&comment=">
-  <img alt="typograssy" src="https://github.com/kawarimidoll/typograssy">
-</picture>
--->
-
-<!--
 **kawau1/kawau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -26,6 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Foolish.&l0=000000&l1=ffffff&l2=ffffff&l3=ffffff&l4=ffffff&bg=000000&comment=">
+  <source media="(prefers-color-scheme: light)" srcset="https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Foolish.&l1=000000&l2=000000&l3=000000&l4=000000&frame=ffffff&comment=">
+  <img alt="typograssy" src="https://github.com/kawarimidoll/typograssy">
+</picture>
+-->
+
 [![typograssy](https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Foolish.&l1=36c5f0&l2=ecb22e&l3=2eb67d&l4=e01e5a&frame=ffffff&comment=)](https://github.com/kawarimidoll/typograssy)
 
 🎓 I’m university student which learning technology.
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kawau1/kawau1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kawau1/kawau1/output/github-contribution-grid-snake.svg">
-  <img alt="typograssy" src="https://github.com/kawarimidoll/typograssy">
+  <img alt="snk" src="https://github.com/Platane/snk">
 </picture>
 
 
@@ -60,7 +60,14 @@ Here are some ideas to get you started:
 
 
 ## Learning Skills
-<!-- https://simpleicons.org/ -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,java,swift,python,ruby,rails,html,css,js,bootstrap,jquery,django,docker,wordpress,unity,raspberrypi,git,github,visualstudio,vscode,vim">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,java,swift,python,ruby,rails,html,css,js,bootstrap,jquery,django,docker,wordpress,unity,raspberrypi,git,github,visualstudio,vscode,vim&theme=light">
+  <img alt="skill-icons" src="https://github.com/tandpfun/skill-icons">
+</picture>
+-->
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,swift,python,ruby,rails,html,css,js,bootstrap,jquery,django,docker,wordpress,unity,raspberrypi,git,github,visualstudio,vscode,vim)](https://skillicons.dev)
 
 
