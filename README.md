@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Foolish.&l0=000000&l1=ffffff&l2=ffffff&l3=ffffff&l4=ffffff&bg=000000&comment=">
-  <source media="(prefers-color-scheme: light)" srcset="https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Foolish.&l1=000000&l2=000000&l3=000000&l4=000000&frame=ffffff&comment=">
+  <source media="(prefers-color-scheme: dark)" srcset="https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Foolish.&l0=323232&l1=36c5f0&l2=ecb22e&l3=2eb67d&l4=e01e5a&bg=000000&comment=">
+  <source media="(prefers-color-scheme: light)" srcset="https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Foolish.&l1=36c5f0&l2=ecb22e&l3=2eb67d&l4=e01e5a&frame=ffffff&comment=">
   <img alt="typograssy" src="https://github.com/kawarimidoll/typograssy">
 </picture>
--->
 
+<!--
 [![typograssy](https://typograssy.deno.dev/api?text=Stay%20Hungry,%20Stay%20Foolish.&l1=36c5f0&l2=ecb22e&l3=2eb67d&l4=e01e5a&frame=ffffff&comment=)](https://github.com/kawarimidoll/typograssy)
+-->
 
 🎓 I’m university student which learning technology.
 
