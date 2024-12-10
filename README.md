@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20kawau1)](https://github.com/kawau1)
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=githubsponsors&label=Sponsor%20kawau1)](https://github.com/sponsors/kawau1)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=paypal&label=PayPal)](https://paypal.com/paypalme/kawau1)
 
 <!--
 **kawau1/kawau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
